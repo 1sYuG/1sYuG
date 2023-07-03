@@ -15,7 +15,7 @@
    
 - **Operating Systems**:
 
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Linux](https://img.shields.io/badge/Linux-070707?style=for-the-badge&logo=linux&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-070707?style=for-the-badge&logo=windows&logoColor=blue)
 
 
