@@ -25,7 +25,7 @@
    
 - **Operating Systems**:
 
-    ![Linux](https://img.shields.io/badge/Linux-070707?style=for-the-badge&logo=linux&logoColor=white)
+    ![Arch Linux](https://img.shields.io/badge/ArchLinux-070707?style=for-the-badge&logo=archlinux&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-070707?style=for-the-badge&logo=windows&logoColor=blue)
 
   <h2 align='left'>Thank You ❤</h2>
