@@ -23,7 +23,7 @@
     ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=blue) 
 
    
-- **Operating Systems**:
+- **System Operation**:
 
     ![Arch Linux](https://img.shields.io/badge/ArchLinux-070707?style=for-the-badge&logo=archlinux&logoColor=white)
 
