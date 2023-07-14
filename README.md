@@ -18,9 +18,8 @@
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=orage)
-    ![Lapce](https://img.shields.io/badge/Lapce-%23000000.svg?style=for-the-badge&logo=lapce&logoColor=blue)
+    ![VSCodium](https://img.shields.io/badge/VsCodium-%23000000.svg?style=for-the-badge&logo=vscodium&logoColor=blue)
     ![Terminal](https://img.shields.io/badge/Terminal-070707?style=for-the-badge&logo=windows-terminal&logoColor=white)
-    ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=blue) 
 
    
 - **System Operation**:
