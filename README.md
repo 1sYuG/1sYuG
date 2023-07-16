@@ -25,6 +25,7 @@
 - **System Operation**:
 
     ![Arch Linux](https://img.shields.io/badge/ArchLinux-070707?style=for-the-badge&logo=archlinux&logoColor=white)
+    ![Debian](https://img.shields.io/badge/Debian-070707?style=for-the-badge&logo=debian&logoColor=white)
 
 
   <h2 align='left'>Thank You ❤</h2>
