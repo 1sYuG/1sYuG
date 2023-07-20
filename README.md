@@ -19,8 +19,7 @@
 
     ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=orage)
     ![VSCodium](https://img.shields.io/badge/VsCodium-%23000000.svg?style=for-the-badge&logo=vscodium&logoColor=blue)
-    ![Terminal](https://img.shields.io/badge/Terminal-070707?style=for-the-badge&logo=windows-terminal&logoColor=white)
-    
+![Bash](https://img.shields.io/badge/Bash-070707?style=for-the-badge&logo=gnometerminal&logoColor=white)    
 
    
 - **System Operation**:
