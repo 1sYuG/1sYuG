@@ -23,10 +23,9 @@
     
 
    
-- **System Operation (Dual Boot)**:
+- **System Operation**:
 
     ![Arch Linux](https://img.shields.io/badge/ArchLinux-070707?style=for-the-badge&logo=archlinux&logoColor=blue)
-    ![Debian](https://img.shields.io/badge/Debian-070707?style=for-the-badge&logo=debian&logoColor=red)
 
 
   <h2 align='left'>Thank You ❤</h2>
