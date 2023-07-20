@@ -17,7 +17,6 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=orage)
     ![VSCodium](https://img.shields.io/badge/VsCodium-%23000000.svg?style=for-the-badge&logo=vscodium&logoColor=blue)
 ![Bash](https://img.shields.io/badge/Bash-070707?style=for-the-badge&logo=gnometerminal&logoColor=white)    
 
