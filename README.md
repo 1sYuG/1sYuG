@@ -19,6 +19,13 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-007ACC?style=flat-square&logo=VirtualBox&logoColor=white)
 ![Brave-Browser](https://img.shields.io/badge/Brave-F05032?style=flat-square&logo=Brave&logoColor=white)
 
+<br>
+<p align="center"> 
+  I Love Python <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> 
+</p>
+<br>
+
+
   <h2 align='left'>Thank You ❤</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
