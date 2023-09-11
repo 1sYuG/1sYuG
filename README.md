@@ -8,8 +8,7 @@
 
 ![ArchLinux](https://img.shields.io/badge/Arch-1062D1?style=flat-square&logo=ArchLinux&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-Purple-5410D1?style=flat-square&logo=KaliLinux&logoColor=white)
-
-![XFCE](https://img.shields.io/badge/XFCE-000000?style=flat-square&logo=Xfce&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-000000?style=flat-square&logo=Xfce&logoColor=blue)
 
 
  
