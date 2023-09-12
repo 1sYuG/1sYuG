@@ -6,19 +6,19 @@
 
 *Systems Operatings & Desktop*
 
-![ArchLinux](https://img.shields.io/badge/Arch-1062D1?style=flat-square&logo=ArchLinux&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-Purple-5410D1?style=flat-square&logo=KaliLinux&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch-000000?style=flat-square&logo=ArchLinux&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=KaliLinux&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE-000000?style=flat-square&logo=Xfce&logoColor=blue)
 
 
  
 *Software & Tools*
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=orange)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![VsCodium](https://img.shields.io/badge/VsCodium-007ACC?style=flat-square&logo=VsCodium&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-007ACC?style=flat-square&logo=VirtualBox&logoColor=white)
-![Brave-Browser](https://img.shields.io/badge/Brave-F05032?style=flat-square&logo=Brave&logoColor=white)
+![VsCodium](https://img.shields.io/badge/VsCodium-000000?style=flat-square&logo=VsCodium&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=VirtualBox&logoColor=white)
+![Brave-Browser](https://img.shields.io/badge/Brave-000000?style=flat-square&logo=Brave&logoColor=orange)
 
 <br>
 <p align="center"> 
