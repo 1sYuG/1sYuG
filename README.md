@@ -16,8 +16,8 @@
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=orange)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![VsCodium](https://img.shields.io/badge/VsCodium-000000?style=flat-square&logo=VsCodium&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=VirtualBox&logoColor=white)
+![VsCodium](https://img.shields.io/badge/VsCodium-000000?style=flat-square&logo=VsCodium&logoColor=blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=VirtualBox&logoColor=blue)
 ![Brave-Browser](https://img.shields.io/badge/Brave-000000?style=flat-square&logo=Brave&logoColor=orange)
 
 <br>
