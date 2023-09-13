@@ -6,7 +6,7 @@
 
 *Systems Operatings & Desktop*
 
-![ArchLinux](https://img.shields.io/badge/Arch-000000?style=flat-square&logo=ArchLinux&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch-000000?style=flat-square&logo=ArchLinux&logoColor=blue)
 ![KaliLinux](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=KaliLinux&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE-000000?style=flat-square&logo=Xfce&logoColor=blue)
 
