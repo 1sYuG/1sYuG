@@ -10,7 +10,8 @@
 ![Processador](https://img.shields.io/badge/AMD-Ryzen_3_5300U-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![storage](https://img.shields.io/badge/256GB_/_120GB-Storage-952F8A?style=flat-square&logo=Storage&logoColor=white
 )
-![Ram](https://img.shields.io/badge/12GB-RAM-AB0B68?style=flat-square&logo=MRam&logoColor=white)
+![VRam](https://img.shields.io/badge/2GB-VRAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
+![Ram](https://img.shields.io/badge/12GB-RAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
  
 *Software & Tools*
 
