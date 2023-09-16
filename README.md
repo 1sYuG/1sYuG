@@ -11,7 +11,7 @@
 ![storage](https://img.shields.io/badge/256GB_/_120GB-Storage-952F8A?style=flat-square&logo=Storage&logoColor=white
 )
 ![VRam](https://img.shields.io/badge/2GB-VRAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
-![Ram](https://img.shields.io/badge/12GB-RAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
+![Ram](https://img.shields.io/badge/10GB-RAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
  
 *Software & Tools*
 
