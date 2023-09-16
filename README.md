@@ -5,6 +5,7 @@
 </p>
 
 **OS Favorite & Hardware**
+
 ![ArchLinux](https://img.shields.io/badge/Arch-Lenovo_Ideapad_3-0078D6?style=for-the-badge&logo=ArchLinux&logoColor=white)
 ![Processador](https://img.shields.io/badge/AMD-Ryzen_3_5300U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![storage](https://img.shields.io/badge/256GB_/_120GB-Storage-952F8A?style=flat-square&logo=Storage&logoColor=white
