@@ -13,7 +13,7 @@
 ![VRam](https://img.shields.io/badge/2GB-VRAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
 ![Ram](https://img.shields.io/badge/10GB-RAM-AB0B68?style=flat-square&logo=vRam&logoColor=white)
  
-*Software & Tools*
+**Software & Tools**
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=orange)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=GNUBash&logoColor=white)
