@@ -4,11 +4,11 @@
   <a href="https://github.com/1sYuG/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=+Tester+Of+Software;Enthusiastic+Open+Source;Linux+Lover"></a>
 </p>
 
-*OS & Desktop Favorite*
+**OS Favorite & Hardware**
 
-![ArchLinux](https://img.shields.io/badge/ArchLinux-000000?style=flat-square&logo=ArchLinux&logoColor=blue)
-![XFCE](https://img.shields.io/badge/XFCE-000000?style=flat-square&logo=Xfce&logoColor=blue)
-
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Laptop](https://img.shields.io/badge/Lenovo-000000?style=for-the-badge&logo=Lenovo&logoColor=white)
+![Processador](https://img.shields.io/badge/AMD-Ryzen_3_5300U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
  
 *Software & Tools*
@@ -19,6 +19,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=VirtualBox&logoColor=blue)
 ![Brave-Browser](https://img.shields.io/badge/Brave-000000?style=flat-square&logo=Brave&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=green)
+
 <br>
 <p align="center"> 
   I Love Python <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> 
