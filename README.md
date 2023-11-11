@@ -21,6 +21,8 @@
 ![VSCodium](https://img.shields.io/badge/VsCodium-000000?style=flat-square&logo=VsCodium&logoColor=blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=VirtualBox&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=white)
 
 <br>
 <p align="center"> 
