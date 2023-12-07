@@ -6,7 +6,7 @@
 
 **OS Favorite & Hardware**
 
-![Windows](https://img.shields.io/badge/Windows_10_LTSC-Lenovo_Ideapad_3-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11_LTSC-Lenovo_Ideapad_3-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Processador](https://img.shields.io/badge/AMD-Ryzen_3_5300U-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![storage](https://img.shields.io/badge/256GB_/_120GB-Storage-952F8A?style=flat-square&logo=Storage&logoColor=white
 )
